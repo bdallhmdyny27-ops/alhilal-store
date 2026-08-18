@@ -1,0 +1,6 @@
+{
+  "name": "متجر الهلال - Al Hilal Store",
+  "description": "المتجر الإلكتروني لمنتجات نادي الهلال السعودي (أحذية، قمصان، شورتات وإكسسوارات)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
